@@ -1,0 +1,27 @@
+{
+  "name": "meat-api",
+  "version": "1.0.0",
+  "description": "Meat app API from the course with NodeJS / Restify & MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeAlvesSilva/meat-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeAlvesSilva/meat-api/issues"
+  },
+  "homepage": "https://github.com/FelipeAlvesSilva/meat-api#readme",
+  "dependencies": {
+    "restify": "^6.3.4"
+  },
+  "devDependencies": {
+    "@types/restify": "5.0.6",
+    "nodemon": "^1.18.10"
+  }
+}
